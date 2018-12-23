@@ -1,5 +1,5 @@
 def my_hash
-  your_hash = {}
+  your_hash = {fun => 7}
 
 
 end
